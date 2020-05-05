@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="btnDrawable" format="reference" />
+    <attr name="textColor" format="color|reference" />
+    <attr name="textAppearance" format="reference" />
+    <attr name="leftItem" format="string|reference" />
+    <attr name="rightItem" format="string|reference" />
+
+    <declare-styleable name="SwitchView">
+        <attr name="leftItem" />
+        <attr name="rightItem" />
+        <attr name="btnDrawable" />
+        <attr name="textColor" />
+        <attr name="textAppearance" />
+    </declare-styleable>
+</resources>
